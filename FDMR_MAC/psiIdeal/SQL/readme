@@ -1,0 +1,7 @@
+#LEIAME
+
+geraTideal.sh: extrai informações do banco de dados a partir das querys contidas em geraGraficos54.sql e geraGraficos6.sql CUIDADO: NOME DO ESQUEMA HARDCODED, VERIFICAR CAMINHOS ABSOLUTOS
+
+geraGraficos6.sql: gera já na pasta "imagens" os .dat no formato do tikz para 6 Mbps. CUIDADO: USO DE CAMINHOS ABSOLUTOS.
+
+geraGraficos54.sql: gera já na pasta "imagens" os .dat no formato do tikz para 54 Mbps. CUIDADO: USO DE CAMINHOS ABSOLUTOS.
